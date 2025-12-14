@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <circle cx="50" cy="50" r="45" fill="none" stroke="#667eea" stroke-width="3"/>
+  <circle cx="50" cy="50" r="40" fill="#f0f4ff"/>
+  <!-- Longitude lines -->
+  <path d="M 10 50 Q 50 30 90 50" fill="none" stroke="#667eea" stroke-width="2" opacity="0.6"/>
+  <path d="M 10 50 Q 50 50 90 50" fill="none" stroke="#667eea" stroke-width="2" opacity="0.6"/>
+  <path d="M 10 50 Q 50 70 90 50" fill="none" stroke="#667eea" stroke-width="2" opacity="0.6"/>
+  <!-- Latitude lines -->
+  <ellipse cx="50" cy="30" rx="25" ry="8" fill="none" stroke="#667eea" stroke-width="2" opacity="0.6"/>
+  <ellipse cx="50" cy="50" rx="30" ry="10" fill="none" stroke="#667eea" stroke-width="2" opacity="0.6"/>
+  <ellipse cx="50" cy="70" rx="25" ry="8" fill="none" stroke="#667eea" stroke-width="2" opacity="0.6"/>
+  <!-- Continents (simplified) -->
+  <path d="M 35 40 Q 40 35 45 40 Q 50 45 55 40 Q 60 35 65 40" fill="#4CAF50" opacity="0.7"/>
+  <path d="M 30 60 Q 35 55 40 60 Q 45 65 50 60 Q 55 55 60 60 Q 65 65 70 60" fill="#4CAF50" opacity="0.7"/>
+  <path d="M 20 45 Q 25 40 30 45" fill="#4CAF50" opacity="0.7"/>
+</svg>
+
